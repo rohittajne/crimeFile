@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, html { overflow-x:hidden; }
+body,td,th {
+	color: #FFF;
+}
+
+
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFF;
+	text-decoration: none;
+}
+a:active {
+	color: #FFF;
+	text-decoration: none;
+}
+a {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+body {
+	background-image:url(images/website-background.gif);
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.heading{
+	
+	font-size:56px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
